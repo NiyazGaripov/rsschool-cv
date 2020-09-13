@@ -1,6 +1,6 @@
 # Niyaz Garipov
 
-Position: Frontend developer
+<img width="150" alt="Niyaz Garipov" src="https://avatars2.githubusercontent.com/u/24496044?s=460&u=b68effe06f811183feb55d78d8bd656b55df781b&v=4">
 
 ## Contact Info
 [![Gmail Badge](https://img.shields.io/badge/-garipov.niiaz@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:garipov.niiaz@gmail.com)](mailto:garipov.niiaz@gmail.com) 
