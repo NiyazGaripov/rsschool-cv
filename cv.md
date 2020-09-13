@@ -45,3 +45,31 @@ I was trained as an engineer in the automation of technological processes. For f
     * BEM
     * Agile development
     * Programming paradigms
+
+## Experience
+
+### 1. [Wikium](https://wikium.ru)
+
+
+#### October 2018 - To date
+
+Position: Junior frontend developer
+
+#### Responsibilities:
+
+- Development of single page application (Angular)
+- Implementation of new functionality and interfaces
+- Optimization and refactoring of the existing code
+- Participation in the development of user interface (UI) and user interaction (UX)
+
+### 2. [HTML Academy](https://htmlacademy.ru/) 
+
+#### May 2019 — July 2019
+
+Position: Mentor
+
+#### Responsibilities:
+
+- Mentoring [HTML and CSS course, level 1](https://htmlacademy.ru/intensive/htmlcss) 
+- Checking student assignments
+- Consulting on tasks and errors in their execution
