@@ -73,3 +73,20 @@ Position: Mentor
 - Mentoring [HTML and CSS course, level 1](https://htmlacademy.ru/intensive/htmlcss) 
 - Checking student assignments
 - Consulting on tasks and errors in their execution
+
+## Education
+
+### Saint-Petersburg State University of Industrial Technology and Design
+
+#### September  2009 — July 2014
+
+Faculty: Information technology and engineering
+
+Specialization: Autoimmunization of production processes 
+
+### Courses
+#### [Professional HTML & CSS, level 1](https://assets.htmlacademy.ru/certificates/intensive/67/617897.pdf?1522789104)
+#### [Professional HTML & CSS, level 2](https://assets.htmlacademy.ru/certificates/intensive/71/617897.pdf?1527665016)
+#### [Professional JavaScript, level 1](https://assets.htmlacademy.ru/certificates/intensive/83/617897.pdf?1531850392)
+#### [Professional JavaScript, level 2](https://assets.htmlacademy.ru/certificates/intensive/145/617897.pdf?1591202145)
+
