@@ -6,17 +6,20 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Niyaz Garipov CV</title>
+    <link  href="style.css" rel="stylesheet">
+
 </head>
 <body>
     <main>
-        <h1>Personal CV</h1>
+        <h1 class="visually-hidden">Personal CV</h1>
         <section class="who">
+            <img class="who__img" width="150" alt="Niyaz Garipov" src="https://avatars2.githubusercontent.com/u/24496044?s=460&u=b68effe06f811183feb55d78d8bd656b55df781b&v=4">
             <h2>Niyaz Garipov</h2>
-            <h3>Frontend developer</h3>
-            <img width="150" alt="Niyaz Garipov" src="https://avatars2.githubusercontent.com/u/24496044?s=460&u=b68effe06f811183feb55d78d8bd656b55df781b&v=4">
         </section>
-        <section class="contact">
-            <h2>Contact info</h2>
+        <section class="contact" id="contact">
+            <h2>Contact info
+                <a class="anchor" href="#contact" aria-label="Section title">⚓️</a>
+            </h2>
             <ul class="social">
                 <li class="social__item">
                     <a class="social__link" href="https://github.com/NiyazGaripov" aria-label="Github" target="blank">
@@ -41,12 +44,16 @@
                 </li>
             </ul>
         </section>
-        <section class="summary">
-            <h2>Summary</h2>
+        <section class="summary" id="summary">
+            <h2>Summary
+                <a class="anchor" href="#summary" aria-label="Section title">⚓️</a>
+            </h2>
             <p>I was trained as an engineer in the automation of technological processes. For four years worked on the design of automatic control systems, programming of industrial controllers. In 2017, became acquainted with the web development world. Web development was so fascinating to me that I decided to link future professional activities to this field. I’m now a junior frontend developer. I continue to study web technology and hone my code every day. Aspiring to become a professional.</p>
         </section>
-        <section class="skills">
-            <h2>Skills</h2>
+        <section class="skills" id="skills">
+            <h2>Skills
+                <a class="anchor" href="#skills" aria-label="Section title">⚓️</a>
+            </h2>
 
             <b>Web technologies</b>
             <ul>
@@ -86,13 +93,15 @@
                 <li>Programming paradigms</li>
             </ul>
         </section>
-        <section class="experience">
-            <h2>Experience</h2>
+        <section class="experience" id="experience">
+            <h2>Experience
+                <a class="anchor" href="#experience" aria-label="Section title">⚓️</a>
+            </h2>
             <ol>
                 <li>
                     <strong>Junior frontend developer at</strong>
-                    <a href="https://wikium.ru">Wikium</a>
-                    <p>October 2018 - to present</p>
+                    <a href="https://wikium.ru" target="blank">Wikium</a>
+                    <p class="italic">October 2018 - to present</p>
 
                     <b>Responsibilities:</b>
                     <ul>
@@ -104,8 +113,8 @@
                 </li>
                 <li>
                     <strong>Mentor at</strong>
-                    <a href="https://htmlacademy.ru/">HTML Academy</a>
-                    <p>May 2019 — July 2019</p>
+                    <a href="https://htmlacademy.ru/" target="blank">HTML Academy</a>
+                    <p class="italic">May 2019 — July 2019</p>
 
                     <b>Responsibilities:</b>
                     <ul>
@@ -116,44 +125,50 @@
                 </li>
             </ol>
         </section>
-        <section class="education">
-            <h2>Education</h2>
-            <ul>
+        <section class="education" id="education">
+            <h2>Education
+                <a class="anchor" href="#education" aria-label="Section title">⚓️</a>
+            </h2>
+            <ul class="education__list">
                 <li>
                     <h3>Saint-Petersburg State University of Industrial Technology and Design</h3>
-                    <p>September  2009 — July 2014</p>
-                    <b>Faculty:</b>
-                    <span>Information technology and engineering</span>
-                    <b>Specialization:</b>
-                    <span>Autoimmunization of production processes</span>
+                    <p class="italic">September  2009 — July 2014</p>
+                    <p>
+                        <b>Faculty:</b>
+                        <span>Information technology and engineering</span>
+                    </p>
+                    <p>
+                        <b>Specialization:</b>
+                        <span>Autoimmunization of production processes</span>
+                    </p>
                 </li>
                 <li>
                     <h3>Courses</h3>
                     <b>Successfully completed:</b>
                     <ul>
                         <li>
-                            <a href="https://assets.htmlacademy.ru/certificates/intensive/67/617897.pdf?1522789104">Professional HTML & CSS, level 1 at HTML Academy</a>
+                            <a href="https://assets.htmlacademy.ru/certificates/intensive/67/617897.pdf?1522789104" target="blank">Professional HTML & CSS, level 1 at HTML Academy</a>
                         </li>
                         <li>
-                            <a href="https://assets.htmlacademy.ru/certificates/intensive/71/617897.pdf?1527665016">Professional HTML & CSS, level 2 at HTML Academy</a>
+                            <a href="https://assets.htmlacademy.ru/certificates/intensive/71/617897.pdf?1527665016" target="blank">Professional HTML & CSS, level 2 at HTML Academy</a>
                         </li>
                         <li>
-                            <a href="https://assets.htmlacademy.ru/certificates/intensive/83/617897.pdf?1531850392">Professional JavaScript, level 1 at HTML Academy</a>
+                            <a href="https://assets.htmlacademy.ru/certificates/intensive/83/617897.pdf?1531850392" target="blank">Professional JavaScript, level 1 at HTML Academy</a>
                         </li>
                         <li>
-                            <a href="https://assets.htmlacademy.ru/certificates/intensive/145/617897.pdf?1591202145">Professional JavaScript, level 2 at HTML Academy</a>
+                            <a href="https://assets.htmlacademy.ru/certificates/intensive/145/617897.pdf?1591202145" target="blank">Professional JavaScript, level 2 at HTML Academy</a>
                         </li>
                         <li>
-                            <a href="https://www.coursera.org/learn/learning-how-to-learn">Learning How to Learn</a>
+                            <a href="https://www.coursera.org/learn/learning-how-to-learn" target="blank">Learning How to Learn</a>
                         </li>
                     </ul>
                     <b>In progress:</b>
                     <ul>
                         <li>
-                            <a href="https://ru.hexlet.io/professions/frontend">Frontend developer at Hexlet</a>
+                            <a href="https://ru.hexlet.io/professions/frontend" target="blank">Frontend developer at Hexlet</a>
                         </li>
                         <li>
-                            <a href="https://rs.school/js/">JavaScript/Front-end at RS School</a>
+                            <a href="https://rs.school/js/" target="blank">JavaScript/Front-end at RS School</a>
                         </li>
 
                     </ul>
